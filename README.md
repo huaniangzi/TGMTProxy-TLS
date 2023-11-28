@@ -9,10 +9,10 @@
 mkdir /home/mtproxy && cd /home/mtproxy
 
 ## 开始安装
-curl -s -o mtproxy.sh https://raw.githubusercontent.com/sunpma/mtp/master/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
+curl -s -o mtproxy.sh https://raw.githubusercontent.com/huaniangzi/TGMTProxy-TLS/main/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
 ```
 
- ![demo.png](https://raw.githubusercontent.com/sunpma/mtp/master/demo.png)
+ ![demo.png](https://raw.githubusercontent.com/huaniangzi/TGMTProxy-TLS/main/demo.png)
 
 ## 使用
 
