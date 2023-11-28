@@ -58,7 +58,7 @@ vi /etc/crontab
 
 ## 加入下面这条命令后保存即可；
 
-@reboot root nohup bash /home/mtproxy/mtproxy.sh start > /dev/null 2>&1 &
+cd /home/mtproxy && bash mtproxy.sh start > /dev/null 2>&1 &
 ```
 
 ## 备用项目
